@@ -7,10 +7,14 @@
     "feedImages": [
       {
         "title": "BIS SAAS",
-        "image": "https://www.tekoway.com/wp-content/uploads/2019/04/developper-votre-application-web-avec-des-frameworks@2x-80.jpg"
+        "image": "images/bis-saas/login_7e3b9e4b85.png"
+      },
+      {
+        "title": "BIS SAAS",
+        "image": "images/bis-saas/large_package_a586f15394.png"
       }
     ],
-    "feed": "Be a some one",
+    "feed": "Business Integrated System is an accounting application for manage product stoct, general account, etc",
     "likedBy": "Pasha Ungu"
   },
   {
