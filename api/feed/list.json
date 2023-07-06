@@ -105,5 +105,19 @@
     ],
     "feed": "On Progress",
     "likedBy": "Pasha Ungu"
+  },
+  {
+    "id": 5987255587,
+    "title": "Company Profile",
+    "subTitle": "Laboratorium Klinik Thamrin",
+    "headerImage": "/images/profile.jpg",
+    "feedImages": [
+      {
+        "title": "Company Profile - Home",
+        "image": "images/lab-thamrin/lab-thamrin_home-page_Screenshot_2023-07-06_23-18-52.png"
+      }
+    ],
+    "feed": "It is a company profile, can manage page from admin panel like Content Management System (CMS)",
+    "likedBy": "Pasha Ungu"
   }
 ]
