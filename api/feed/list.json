@@ -1,8 +1,22 @@
 [
   {
-    "id": 53678566576587,
-    "title": "BIS SAAS",
-    "subTitle": "Test 123",
+    "id": 54619465587,
+    "title": "Festival Management System",
+    "subTitle": "Citra Pariwara",
+    "headerImage": "/images/profile.jpg",
+    "feedImages": [
+      {
+        "title": "FMS - Dashboard",
+        "image": "images/fms/FMS_Dashboard_Screenshot_2023-07-06_17-24-22.png"
+      }
+    ],
+    "feed": "Festival Management System (FMS) is an event management application, where there are participants as participants, judges as assessors, and admins as managers starting from participant registration to application management",
+    "likedBy": "Andika Kangen Band"
+  },
+  {
+    "id": 5367856587,
+    "title": "Bussines Integrated System (BIS)",
+    "subTitle": "Mitra Pasifik Solusindo",
     "headerImage": "/images/profile.jpg",
     "feedImages": [
       {
@@ -18,31 +32,78 @@
     "likedBy": "Pasha Ungu"
   },
   {
-    "id": 53678565576587,
-    "title": "Pipeline",
-    "subTitle": "Pipeline 123",
+    "id": 5367856587,
+    "title": "Bussines Integrated System (BIS) Custom",
+    "subTitle": "Sumatra Jewellery",
     "headerImage": "/images/profile.jpg",
     "feedImages": [
       {
-        "title": "Pipeline",
-        "image": "https://i.ytimg.com/vi/9IXsqIVagy0/maxresdefault.jpg"
+        "title": "SJ - Price List",
+        "image": "images/sj/large_Price_List_Page_c41d7ab4b0.png"
+      },
+      {
+        "title": "SJ - Rapaport",
+        "image": "images/sj/large_Rapaport_Page_3b5bab10c4.png"
       }
     ],
-    "feed": "Be a some one",
+    "feed": "The same as the Bussines Integrated System (BIS), but this application is modified according to the request of the customer.",
+    "likedBy": "Pasha Ungu"
+  },
+
+  {
+    "id": 53619576558,
+    "title": "Loan Origination System (LOS)",
+    "subTitle": "JTrust Bank",
+    "headerImage": "/images/profile.jpg",
+    "feedImages": [
+      {
+        "title": "LOS - Data Entry",
+        "image": "images/los-jtrust/lost-jtrust_data-entry_Screenshot_2023-07-06_22-26-55.png"
+      }
+    ],
+    "feed": "Loan Origination System (LOS) is a credit management application, starting from customer registration, SLIK verification, Negative Checks, credit scoring, to financial data input",
+    "likedBy": "Andika Kangen Band"
+  },
+  {
+    "id": 53613976558,
+    "title": "Loan Origination System (LOS)",
+    "subTitle": "HIK Parahyangan - BPR Syariah",
+    "headerImage": "/images/profile.jpg",
+    "feedImages": [
+      {
+        "title": "LOS - Data Entry",
+        "image": "images/los-sindikasi/los-sindikasi_data_entry_Screenshot_2023-07-06_22-48-06.png"
+      }
+    ],
+    "feed": "Loan Origination System (LOS) is a credit management application, starting from customer registration, SLIK verification, Negative Checks, credit scoring, to financial data input",
+    "likedBy": "Andika Kangen Band"
+  },
+  {
+    "id": 5367855587,
+    "title": "Pipeline",
+    "subTitle": "HIK Parahyangan - BPR Syariah",
+    "headerImage": "/images/profile.jpg",
+    "feedImages": [
+      {
+        "title": "Pipeline - Followup",
+        "image": "images/pipeline/Pipeline_followup_Screenshot_2023-07-06_22-12-58.png"
+      }
+    ],
+    "feed": "Pipeline is a third party application from Loan Original System (LOS). with its main function to find out the progress of a credit starting from registration from marketing, until the credit is disbursed",
     "likedBy": "Pasha Ungu"
   },
   {
-    "id": 53619465576587,
-    "title": "Festival Management System",
-    "subTitle": "FMS",
+    "id": 5367255587,
+    "title": "E-Santri",
+    "subTitle": "Pesantren Al-Azhar",
     "headerImage": "/images/profile.jpg",
     "feedImages": [
       {
-        "title": "Citra Pariwara",
-        "image": "https://static.gatra.com/foldershared/images/2021/iwan/11-Nov/Citra_Pariwara-Ist.jpg"
+        "title": "E-Santri - Data Santri",
+        "image": "images/e-santri/e-santri-santri_data_Screenshot_2023-07-06_23-02-48.png"
       }
     ],
-    "feed": "Be a some one",
-    "likedBy": "Andika Kangen Band"
+    "feed": "On Progress",
+    "likedBy": "Pasha Ungu"
   }
 ]
