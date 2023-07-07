@@ -1,0 +1,1 @@
+import{M as e}from"./MetaContent.beb00eb3.js";import{j as t,R as a,S as o,U as r,W as n}from"./index.45c448f2.js";import"./render.cf8f0895.js";const m=t({__name:"portfolio",setup(l){return(s,p)=>(a(),o(e,null,{default:r(()=>[n("Will be available")]),_:1}))}});export{m as default};
