@@ -8,6 +8,30 @@
       {
         "title": "FMS - Dashboard",
         "image": "images/fms/FMS_Dashboard_Screenshot_2023-07-06_17-24-22.png"
+      },
+      {
+        "title": "FMS - Auth Page",
+        "image": "images/fms/FMS_AUTH_Screenshot_2023-07-06_17-28-33.png"
+      },
+      {
+        "title": "FMS - Admin Page",
+        "image": "images/fms/FMS_ADMIN_PAGE_Screenshot_2023-07-06_17-24-56.png"
+      },
+      {
+        "title": "FMS - Admin Event Page",
+        "image": "images/fms/FMS_EVENT_Screenshot_2023-07-06_17-25-36.png"
+      },
+      {
+        "title": "FMS - Jury List Page",
+        "image": "images/fms/FMS_JURY_LIST_Screenshot_2023-07-06_17-29-36.png"
+      },
+      {
+        "title": "FMS - Jury Page",
+        "image": "images/fms/FMS_JUDGING_Screenshot_2023-07-06_17-26-30.png"
+      },
+      {
+        "title": "FMS - Participant Page",
+        "image": "images/fms/FMS_PARTICIPANT_Screenshot_2023-07-06_17-29-10.png"
       }
     ],
     "feed": "Festival Management System (FMS) is an event management application, where there are participants as participants, judges as assessors, and admins as managers starting from participant registration to application management",
@@ -20,12 +44,62 @@
     "headerImage": "/images/profile.jpg",
     "feedImages": [
       {
-        "title": "BIS SAAS",
+        "title": "BIS SAAS - Login Page",
         "image": "images/bis-saas/login_7e3b9e4b85.png"
       },
       {
-        "title": "BIS SAAS",
+        "title": "BIS SAAS - Package",
         "image": "images/bis-saas/large_package_a586f15394.png"
+      },
+      {
+        "title": "BIS SAAS - Dashboard",
+        "image": "images/bis-saas/bis_dashboard_Screenshot_2023-07-07_09-42-57.png"
+      },
+      {
+        "title": "BIS SAAS - Product Page",
+        "image": "images/bis-saas/bis_product_Screenshot_2023-07-07_09-45-01.png"
+      },
+      {
+        "title": "BIS SAAS - Setting Page",
+        "image": "images/bis-saas/bis_setting_Screenshot_2023-07-07_09-43-29.png"
+      },
+      {
+        "title": "BIS SAAS - Role Page",
+        "image": "images/bis-saas/bis_role_Screenshot_2023-07-07_09-44-19.png"
+      },
+      {
+        "title": "BIS SAAS - Report Page",
+        "image": "images/bis-saas/bis_report_Screenshot_2023-07-07_09-45-49.png"
+      }
+    ],
+    "feed": "Business Integrated System is an accounting application for manage product stoct, general account, etc",
+    "likedBy": "Pasha Ungu"
+  },
+  {
+    "id": 5367856587,
+    "title": "Bussines Integrated System (BIS) Admin",
+    "subTitle": "Mitra Pasifik Solusindo",
+    "headerImage": "/images/profile.jpg",
+    "feedImages": [
+      {
+        "title": "BIS SAAS (Admin) - Dashboard Page",
+        "image": "images/bis-saas-admin/bis-admin_dashboard_Screenshot_2023-07-07_09-59-54.png"
+      },
+      {
+        "title": "BIS SAAS (Admin) - Auth Page",
+        "image": "images/bis-saas-admin/bis-admin_login_Screenshot_2023-07-07_10-03-19.png"
+      },
+      {
+        "title": "BIS SAAS (Admin) - Package Management",
+        "image": "images/bis-saas-admin/bis-admin_package_Screenshot_2023-07-07_10-01-07.png"
+      },
+      {
+        "title": "BIS SAAS (Admin) - Promo Management",
+        "image": "images/bis-saas-admin/bis-admin_promo_Screenshot_2023-07-07_10-00-48.png"
+      },
+      {
+        "title": "BIS SAAS (Admin) - Role Management",
+        "image": "images/bis-saas-admin/bis-admin_role_Screenshot_2023-07-07_10-00-25.png"
       }
     ],
     "feed": "Business Integrated System is an accounting application for manage product stoct, general account, etc",
@@ -44,9 +118,25 @@
       {
         "title": "SJ - Rapaport",
         "image": "images/sj/large_Rapaport_Page_3b5bab10c4.png"
+      },
+      {
+        "title": "SJ - Sales Ivoice Page",
+        "image": "images/sj/large_sales_invoice_cash_page_a02707bc17.png"
+      },
+      {
+        "title": "SJ - Settnig Page",
+        "image": "images/sj/large_Setting_Page_0de1a8d789.png"
+      },
+      {
+        "title": "SJ - Product Page",
+        "image": "images/sj/large_sj_thumbnail_c275d914a0.png"
+      },
+      {
+        "title": "SJ - Report List",
+        "image": "images/sj/large_Report_Page_30e5514bb7.png"
       }
     ],
-    "feed": "The same as the Bussines Integrated System (BIS), but this application is modified according to the request of the customer.",
+    "feed": "Bussines Integrated System (BIS) Admin is an admin panel of the Bussines Integrated System (BIS) application, whose main function is to manage customers, promos, discounts, to customer history.",
     "likedBy": "Pasha Ungu"
   },
 
@@ -73,6 +163,14 @@
       {
         "title": "LOS - Data Entry",
         "image": "images/los-sindikasi/los-sindikasi_data_entry_Screenshot_2023-07-06_22-48-06.png"
+      },
+      {
+        "title": "LOS - Loan Scheme",
+        "image": "images/los-sindikasi/los-sindikasi_loan_scheme_Screenshot_2023-07-06_22-46-32.png"
+      },
+      {
+        "title": "LOS - Auth Page",
+        "image": "images/los-sindikasi/los-sindikasi_login_Screenshot_2023-07-06_22-38-34.png"
       }
     ],
     "feed": "Loan Origination System (LOS) is a credit management application, starting from customer registration, SLIK verification, Negative Checks, credit scoring, to financial data input",
@@ -87,6 +185,18 @@
       {
         "title": "Pipeline - Followup",
         "image": "images/pipeline/Pipeline_followup_Screenshot_2023-07-06_22-12-58.png"
+      },
+      {
+        "title": "Pipeline - Crud",
+        "image": "images/pipeline/Pipeline_crud_Screenshot_2023-07-06_22-16-15.png"
+      },
+      {
+        "title": "Pipeline - Dashboard",
+        "image": "images/pipeline/Pipeline_dashboard_Screenshot_2023-07-06_22-14-38.png"
+      },
+      {
+        "title": "Pipeline - Pipeline",
+        "image": "images/pipeline/Pipeline_Screenshot_2023-07-06_22-11-59.png"
       }
     ],
     "feed": "Pipeline is a third party application from Loan Original System (LOS). with its main function to find out the progress of a credit starting from registration from marketing, until the credit is disbursed",
@@ -115,6 +225,14 @@
       {
         "title": "Company Profile - Home",
         "image": "images/lab-thamrin/lab-thamrin_home-page_Screenshot_2023-07-06_23-18-52.png"
+      },
+      {
+        "title": "Company Profile - Home Service",
+        "image": "images/lab-thamrin/lab-thamrin_home_service_list_home_service_page_4e11d5f9d0.png"
+      },
+      {
+        "title": "Company Profile - User Management",
+        "image": "images/lab-thamrin/lab-thamrin_user_mgmnt_large_user_management_page_9b2761150f.png"
       }
     ],
     "feed": "It is a company profile, can manage page from admin panel like Content Management System (CMS)",
