@@ -155,6 +155,36 @@
     "likedBy": "Andika Kangen Band"
   },
   {
+    "id": 53613976234,
+    "title": "Loan Origination System (LOS) Redesign",
+    "subTitle": "PT Dwidasa Samsara Indonesia",
+    "headerImage": "/images/profile.jpg",
+    "feedImages": [
+      {
+        "title": "LOS - Login",
+        "image": "images/los-redesign/Screenshot_2024-01-19_14-41-00.png"
+      },
+      {
+        "title": "LOS - List",
+        "image": "images/los-redesign/Screenshot_2024-01-19_14-41-58.png"
+      },
+      {
+        "title": "LOS - Data Entry Form",
+        "image": "images/los-redesign/Screenshot_2024-01-19_14-42-18.png"
+      },
+      {
+        "title": "LOS - Drawdown Page",
+        "image": "images/los-redesign/Screenshot_2024-01-19_15-42-53.png"
+      },
+      {
+        "title": "LOS - Credit Analyst Form",
+        "image": "images/los-redesign/Screenshot_2024-01-19_15-37-00.png"
+      }
+    ],
+    "feed": "Loan Origination System (LOS) is a credit management application, starting from customer registration, SLIK verification, Negative Checks, credit scoring, to financial data input",
+    "likedBy": "Andika Kangen Band"
+  },
+  {
     "id": 53613976558,
     "title": "Loan Origination System (LOS)",
     "subTitle": "HIK Parahyangan - BPR Syariah",
