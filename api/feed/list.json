@@ -1,5 +1,51 @@
 [
   {
+    "id": 54619425787,
+    "title": "Maritime Surveillance Web Portal",
+    "subTitle": "Badan Keamanan Laut (BAKAMLA)",
+    "headerImage": "/images/profile.jpg",
+    "feedImages": [
+      {
+        "title": "Bakamla - Auth Page",
+        "image": "images/bakamla/login-page.png"
+      },
+      {
+        "title": "Bakamla - Tracking",
+        "image": "images/bakamla/vessel-track.jpeg"
+      },
+      {
+        "title": "Bakamla - Reporting Page",
+        "image": "images/bakamla/reporting-page.png"
+      },
+      {
+        "title": "Bakamla - Earthquake Monitoring",
+        "image": "images/bakamla/earthquake.png"
+      },
+      {
+        "title": "Bakamla - Point Of Interest List",
+        "image": "images/bakamla/point-of-interest-page.png"
+      },
+      {
+        "title": "Bakamla - Point Of Interest Form",
+        "image": "images/bakamla/point-of-interest-form.png"
+      },
+      {
+        "title": "Bakamla - Ais Integration List",
+        "image": "images/bakamla/ais-integration-list.png"
+      },
+      {
+        "title": "Bakamla - Ais Integration Form",
+        "image": "images/bakamla/ais-integration-form.png"
+      },
+      {
+        "title": "Bakamla - Chatting Page",
+        "image": "images/bakamla/chatting-page.png"
+      }
+    ],
+    "feed": "The Maritime Surveillance Web Portal is a comprehensive web-based application designed for Bakamla (Badan Keamanan Laut) or other maritime security agencies to monitor and analyze maritime activities in real time. This platform integrates various data sources, including ship movements, earthquake occurrences, weather conditions, and maritime incidents, providing a centralized and interactive interface for enhanced situational awareness.",
+    "likedBy": "Andika Kangen Band"
+  },
+  {
     "id": 54619465587,
     "title": "Festival Management System",
     "subTitle": "Citra Pariwara",

@@ -1,0 +1,1 @@
+import{M as e}from"./MetaContent.0a52a2f3.js";import{j as t,R as a,S as o,U as s,W as r}from"./index.3afff212.js";import"./render.235dfee3.js";const i=t({__name:"messages",setup(n){return(l,c)=>(a(),o(e,null,{default:s(()=>[r("Will be available")]),_:1}))}});export{i as default};
