@@ -1,6 +1,6 @@
 [
   {
-    "id": 54619425787,
+    "id": 54619425237,
     "title": "Maritime Surveillance Web Portal",
     "subTitle": "Badan Keamanan Laut (BAKAMLA)",
     "headerImage": "/images/profile.jpg",
@@ -43,6 +43,44 @@
       }
     ],
     "feed": "The Maritime Surveillance Web Portal is a comprehensive web-based application designed for Bakamla (Badan Keamanan Laut) or other maritime security agencies to monitor and analyze maritime activities in real time. This platform integrates various data sources, including ship movements, earthquake occurrences, weather conditions, and maritime incidents, providing a centralized and interactive interface for enhanced situational awareness.",
+    "likedBy": "Andika Kangen Band"
+  },
+  {
+    "id": 54619425787,
+    "title": "Ontrax",
+    "subTitle": "Inventory Management",
+    "headerImage": "/images/profile.jpg",
+    "feedImages": [
+      {
+        "title": "Ontrax - Auth Page",
+        "image": "images/ontrax/ontrax_102559.png"
+      },
+      {
+        "title": "Ontrax - Home Page",
+        "image": "images/ontrax/ontrax_102628.png"
+      },
+      {
+        "title": "Ontrax - Shipment List Page",
+        "image": "images/ontrax/ontrax_102654.png"
+      },
+      {
+        "title": "Ontrax - Shipment Detail Form Page",
+        "image": "images/ontrax/ontrax_102715.png"
+      },
+      {
+        "title": "Ontrax - Inventory Stock Filter",
+        "image": "images/ontrax/ontrax_102755.png"
+      },
+      {
+        "title": "Ontrax - Inventory Stock Detail",
+        "image": "images/ontrax/ontrax_102813.png"
+      },
+      {
+        "title": "Ontrax - Inventory Stock Specific Filter",
+        "image": "images/ontrax/ontrax_102838.png"
+      }
+    ],
+    "feed": "Ontrax is a web-view–based inventory management application designed to streamline the tracking, movement, and control of goods. It provides real-time monitoring, efficient item management, and seamless workflow support to help businesses maintain accurate stock information and improve operational efficiency.",
     "likedBy": "Andika Kangen Band"
   },
   {
